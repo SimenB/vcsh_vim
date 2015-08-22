@@ -1,0 +1,11 @@
+*
+!/.gitignore.d
+!/.gitignore.d/vim
+!/.vim
+!/.vim/backups
+!/.vim/backups/.gitkeep
+!/.vim/swaps
+!/.vim/swaps/.gitkeep
+!/.vim/undo
+!/.vim/undo/.gitkeep
+!/.vimrc
