@@ -4,8 +4,8 @@
 !/.vim
 !/.vim/backups
 !/.vim/backups/.gitkeep
-!/.vimrc
 !/.vim/swaps
 !/.vim/swaps/.gitkeep
 !/.vim/undo
 !/.vim/undo/.gitkeep
+!/.vimrc
