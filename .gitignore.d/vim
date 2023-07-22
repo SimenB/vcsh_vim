@@ -1,4 +1,5 @@
 *
+!/.config/nvim/init.vim
 !/.gitignore.d/vim
 !/.vim/backups/.gitkeep
 !/.vim/swaps/.gitkeep
