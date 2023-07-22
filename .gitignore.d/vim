@@ -2,6 +2,7 @@
 !/.config/nvim/init.vim
 !/.gitignore.d/vim
 !/.vim/backups/.gitkeep
+!/.vim/colors/monokai.vim
 !/.vim/swaps/.gitkeep
 !/.vim/undo/.gitkeep
 !/.vimrc
