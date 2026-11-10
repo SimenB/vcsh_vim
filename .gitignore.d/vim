@@ -1,8 +1,15 @@
 *
-!/.config/nvim/init.vim
+!/.config
+!/.config/nvim/*
+!/.gitignore.d
 !/.gitignore.d/vim
+!/.vim
+!/.vim/backups
 !/.vim/backups/.gitkeep
+!/.vim/colors
 !/.vim/colors/monokai.vim
+!/.vim/swaps
 !/.vim/swaps/.gitkeep
+!/.vim/undo
 !/.vim/undo/.gitkeep
 !/.vimrc
